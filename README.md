@@ -4,7 +4,7 @@ A machine learning project demonstrating end-to-end data analysis and predictive
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 This project analyzes the Boston Housing dataset to build a predictive model for housing prices. The workflow includes:
 
@@ -15,7 +15,7 @@ This project analyzes the Boston Housing dataset to build a predictive model for
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 | Attribute | Description |
 |-----------|-------------|
@@ -34,7 +34,7 @@ This project analyzes the Boston Housing dataset to build a predictive model for
 
 ---
 
-## 🎯 Key Findings
+## Key Findings
 
 ### Feature Transformations Applied
 | Variable | Issue | Solution |
@@ -62,7 +62,7 @@ This project analyzes the Boston Housing dataset to build a predictive model for
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 ```
 Python 3.x
@@ -76,7 +76,7 @@ Python 3.x
 
 ---
 
-## 📈 Model Performance
+## Model Performance
 
 ### Comparison: Original vs. Transformed Model
 
@@ -111,13 +111,13 @@ boston-housing-prediction/
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/boston-housing-prediction.git
+git clone https://github.com/lucasle68-git/data-project.git
 
 # Install dependencies
 pip install pandas numpy scikit-learn seaborn matplotlib plotly
 
 # Run notebook
-jupyter notebook Code.ipynb
+jupyter notebook Housing_Project_code.ipynb
 ```
 
 ---
