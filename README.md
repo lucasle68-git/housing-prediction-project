@@ -18,4 +18,4 @@ Python | Pandas | NumPy | Scikit-learn | Seaborn | Matplotlib
 | Model | R² (Train) | R² (Test) |
 |-------|------------|-----------|
 | Original | 0.71 | 0.706 |
-| Log-transformed | 0.73 | 0.754 |
+| Transformed| 0.73 | 0.754 |
