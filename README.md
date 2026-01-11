@@ -111,7 +111,7 @@ boston-housing-prediction/
 
 ```bash
 # Clone repository
-git clone https://github.com/lucasle68-git/data-project.git
+git clone https://github.com/lucasle68-git/housing-prediction-project.git
 
 # Install dependencies
 pip install pandas numpy scikit-learn seaborn matplotlib plotly
