@@ -8,10 +8,10 @@ A machine learning project demonstrating end-to-end data analysis and predictive
 
 This project analyzes the Boston Housing dataset to build a predictive model for housing prices. The workflow includes:
 
-- **Exploratory Data Analysis** — Understanding distributions, correlations, and outliers
-- **Feature Engineering** — Log transformations for skewed variables, categorical encoding for bimodal features
-- **Multicollinearity Treatment** — Identifying and removing highly correlated predictors
-- **Model Optimization** — Comparing original vs. transformed models to improve performance
+- **Exploratory Data Analysis**: Understanding distributions, correlations, and outliers
+- **Feature Engineering**: Log transformations for skewed variables, categorical encoding for bimodal features
+- **Multicollinearity Treatment**: Identifying and removing highly correlated predictors
+- **Model Optimization**: Comparing original vs. transformed models to improve performance
 
 ---
 
