@@ -125,9 +125,9 @@ jupyter notebook Housing_Project_code.ipynb
 ## Contact
 
 **Lucas Le**  
-📍 Glasgow, Scotland  
-📫 luong.ldd.work@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/lucasle68/)
+Glasgow, Scotland  
+luong.ldd.work@gmail.com  
+[LinkedIn](https://www.linkedin.com/in/lucasle68/)
 
 ---
 
