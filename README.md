@@ -55,9 +55,9 @@ This project analyzes the Boston Housing dataset to build a predictive model for
 ### Top Price Drivers
 | Factor | Impact | Direction |
 |--------|--------|-----------|
-| **RM** (Rooms) | ~9% per room | ↑ Positive |
-| **CHAS** (River proximity) | ~9% premium | ↑ Positive |
-| **LSTAT** (Lower status %) | ~3% per 1% | ↓ Negative |
+| **RM** (Rooms) | ~6.5% per room | ↑ Positive |
+| **CHAS** (River proximity) | ~11.1% premium | ↑ Positive |
+| **LSTAT** (Lower status %) | ~0.43% per 1% | ↓ Negative |
 | **PTRATIO** (Class size) | ~3% per unit | ↓ Negative |
 
 ---
