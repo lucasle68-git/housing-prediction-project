@@ -1,4 +1,4 @@
-# 🏠 Boston Housing Price Prediction
+# Boston Housing Price Prediction
 
 A machine learning project demonstrating end-to-end data analysis and predictive modeling for housing prices using multivariable linear regression.
 
@@ -96,7 +96,7 @@ Python 3.x
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 boston-housing-prediction/
@@ -107,7 +107,7 @@ boston-housing-prediction/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone repository
@@ -122,7 +122,7 @@ jupyter notebook Housing_Project_code.ipynb
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Lucas Le**  
 📍 Glasgow, Scotland  
