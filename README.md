@@ -90,9 +90,9 @@ Python 3.x
 *RMSE in log units (not directly comparable to original)
 
 ### Key Improvements
-✅ **Better generalization** — Test R² improved from 0.706 to 0.754  
-✅ **Reduced heteroscedasticity** — More uniform residual distribution  
-✅ **Improved high-value predictions** — Less underprediction at price ceiling  
+✅ **Better generalization**: Test R² improved from 0.706 to 0.754  
+✅ **Reduced heteroscedasticity**: More uniform residual distribution  
+✅ **Improved high-value predictions**: Less underprediction at price ceiling  
 
 ---
 
